@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class Day5_Group_Anagrams {
+public class Day6_Group_Anagrams {
     public static List<List<String>> groupAnagrams(String[] strs) {
         if (strs.length == 0) return new ArrayList<>();
         HashMap<String, List<String>> groupAnagramsHashMap = new HashMap<>();
