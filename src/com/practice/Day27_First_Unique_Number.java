@@ -2,7 +2,7 @@ package com.practice;
 
 import java.util.LinkedHashMap;
 
-public class Day26_First_Unique_Number {
+public class Day27_First_Unique_Number {
     LinkedHashMap<Integer, Boolean> uniqueList = new LinkedHashMap<>();
     public FirstUnique(int[] nums) {
         for (int num : nums) {
