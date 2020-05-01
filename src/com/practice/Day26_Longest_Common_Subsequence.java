@@ -1,6 +1,6 @@
 package com.practice;
 
-public class Day25_Longest_Common_Subsequence {
+public class Day26_Longest_Common_Subsequence {
     public static int longestCommonSubsequence(String text1, String text2) {
         char[] t1 = text1.toCharArray(), t2 = text2.toCharArray();
         int[] dp = new int[t2.length+1];

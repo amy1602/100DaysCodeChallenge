@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Day23_LRU_Cache {
+public class Day24_LRU_Cache {
     Map<Integer, Integer> list = new LinkedHashMap<>();
     int capacity;
     public LRUCache(int capacity) {

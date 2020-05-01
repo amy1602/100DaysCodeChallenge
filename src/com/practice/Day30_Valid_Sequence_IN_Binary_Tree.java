@@ -1,6 +1,6 @@
 package com.practice;
 
-public class Day29_Valid_Sequence_IN_Binary_Tree {
+public class Day30_Valid_Sequence_IN_Binary_Tree {
     public static boolean isValidSequence(Main.TreeNode root, int[] arr) {
         return travelNode(root, arr, 0);
     }

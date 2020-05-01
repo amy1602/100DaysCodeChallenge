@@ -1,6 +1,6 @@
 package com.practice;
 
-public class Day26_Maximal_Square {
+public class Day27_Maximal_Square {
     public static int maximalSquare(char[][] matrix) {
         if (matrix.length == 0) return 0;
         int numberOfRow = matrix.length;

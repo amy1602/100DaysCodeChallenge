@@ -1,6 +1,6 @@
 package com.practice;
 
-public class Day28_Binary_Tree_Maximun_Path_Sum {
+public class Day29_Binary_Tree_Maximun_Path_Sum {
     public static void main(String[] args) {
         // write your code here
         Main.TreeNode node9 = new Main.TreeNode(-6);

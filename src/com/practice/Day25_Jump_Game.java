@@ -1,6 +1,6 @@
 package com.practice;
 
-public class Day24_Jump_Game {
+public class Day25_Jump_Game {
     public static boolean canJump(int[] nums) {
         if (nums.length == 1) return true;
         int destination = nums.length - 1;

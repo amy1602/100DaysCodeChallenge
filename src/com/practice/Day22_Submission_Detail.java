@@ -2,7 +2,7 @@ package com.practice;
 
 import java.util.List;
 
-public class Day21_Submission_Detail {
+public class Day22_Submission_Detail {
     public static int leftMostColumnWithOne(BinaryMatrix binaryMatrix) {
         int n = binaryMatrix.dimensions().get(0);
         int m = binaryMatrix.dimensions().get(1);
